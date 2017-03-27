@@ -1,4 +1,4 @@
-# octo-mdl
+# octo-mgdesk
 Material Design Lite Template
 <head>
 <meta charset="utf-8">
